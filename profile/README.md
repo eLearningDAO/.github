@@ -1,12 +1,19 @@
 ## Hi there 👋
+🙋‍♀️ This is a DAO (Decentralized Autonomous Organization) focused on e-Learning. 
 
-<!--
+It will help the development of a new decentralised e-Learning platform.
+There are already some components under development and many others will come with the support of the community. 
 
-**Here are some ideas to get you started:**
+The current overall design consist of 3 modules having these objectives:
+- allow the sovereignty of user learning data
+- fight against the monopoly of the Ed-Tech giants
+- make obsolete the recertification processes
+- enable the reputation of user's curricula instead of relying on the academy brand
+- acknowledge the authorship of the co-created learning materials
+- support the quality of the learning material and the quality of knowledge verification through a novel gamification process
+- share revenue among all of the stakeholders who participated, such as: teachers, verifiers, content creators, content publishers, platform developers, etc.
+- share the ownership of the platform and the contents
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+🌈 If you want to contribute, please support its treasury sending ADA here
+addr1x8dgthgc5tgk9v70jzaesgsexs92yhqfq39gy5vnzyuvssw6shw33gk3v2euly9mnq3pjdq25fwqjpz2sfgexyfcepqsn3r7pu
