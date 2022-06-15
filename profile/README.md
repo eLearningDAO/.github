@@ -17,3 +17,5 @@ The current overall design consist of 3 modules having these objectives:
 
 🌈 If you want to contribute, please support its treasury sending ADA here
 addr1x8dgthgc5tgk9v70jzaesgsexs92yhqfq39gy5vnzyuvssw6shw33gk3v2euly9mnq3pjdq25fwqjpz2sfgexyfcepqsn3r7pu
+
+[![e-Learning DAO revenue stream](https://raw.githubusercontent.com/e-Learning-DAO/.github/main/profile/Decentralised%20E-Learning%20Platform%20-%20Overall%20picture%20-%20Revenue%20%26%20Share%20model.jpg)](https://github.com/e-Learning-DAO)
