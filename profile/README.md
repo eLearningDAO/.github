@@ -1,8 +1,8 @@
 ## Hi there 👋
-🙋‍♀️ This is a DAO (Decentralized Autonomous Organization) focused on e-Learning. 
+🙋‍♀️ This is a DAO (Decentralized Autonomous Organization) focused on decentralised e-Learning. 
 
-It will help the development of a new decentralised e-Learning platform.
-There are already some components under development and many others will come with the support of the community. 
+It supports and coordinate the development of a new decentralised e-Learning platform.
+There are already some components under development and many others will come with the help of the contributors. 
 
 The current overall design consist of 3 modules having these objectives:
 - allow the sovereignty of user learning data
@@ -15,7 +15,7 @@ The current overall design consist of 3 modules having these objectives:
 - share the ownership of the platform and the contents
 
 
-🌈 If you want to contribute, please support its treasury sending ADA here
+🌈 If you want to contribute, join us or support us by sending ADA to the treasury here
 [addr1x8dgthgc5tgk9v70jzaesgsexs92yhqfq39gy5vnzyuvssw6shw33gk3v2euly9mnq3pjdq25fwqjpz2sfgexyfcepqsn3r7pu](https://explorer.cardano.org/en/address.html?address=addr1x8dgthgc5tgk9v70jzaesgsexs92yhqfq39gy5vnzyuvssw6shw33gk3v2euly9mnq3pjdq25fwqjpz2sfgexyfcepqsn3r7pu)
 
 ### This is how it distributes student money among stakeholders who have provided learning material, test & verification, and publishing services.
