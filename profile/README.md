@@ -1,3 +1,5 @@
+[![PoLiL](https://raw.githubusercontent.com/e-Learning-DAO/.github/main/profile/E-Learning-Dao-Logo.jpg)](https://github.com/e-Learning-DAO)
+
 ## Hi there 👋
 🙋‍♀️ This is a DAO (Decentralized Autonomous Organization) focused on decentralised e-Learning. 
 
