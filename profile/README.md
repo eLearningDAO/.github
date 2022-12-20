@@ -1,24 +1,27 @@
 [![PoLiL](https://raw.githubusercontent.com/e-Learning-DAO/.github/main/profile/E-Learning-Dao-Logo.jpg)](https://github.com/e-Learning-DAO)
 
 ## Hi there 👋
-🙋‍♀️ This is a DAO (Decentralized Autonomous Organization) focused on decentralised e-Learning. 
+eLearningDAO is a Decentralized Autonomous Organization (DAO) focused on decentralised e-Learning. 
 
-It supports and coordinate the development of a new decentralised e-Learning platform.
-There are already some components under development and many others will come with the help of the contributors. 
+It supports and coordinates the development of a new open-source decentralised e-Learning platform.
 
-The current overall design consist of 3 modules having these objectives:
-- allow the sovereignty of user learning data
-- fight against the monopoly of the Ed-Tech giants
-- make obsolete the recertification processes
-- enable the reputation of user's curricula instead of relying on the academy brand
+eLearningDAO objectives are:
+- enable sovereignty of the user's learning data
+- share revenue coming from courses, among all contributors such as teachers, examiners, content creators, content publishers, software developers, etc.
+- share ownership of the platform and the learning materials between creators
+- make recertification processes obsolete
+- enable the reputation of user's curricula instead of relying on the brand of the institutes
 - acknowledge the authorship of the co-created learning materials
-- support the quality of the learning material and the quality of knowledge verification through a novel gamification process
-- share revenue among all of the stakeholders who participated, such as: teachers, verifiers, content creators, content publishers, platform developers, etc.
-- share the ownership of the platform and the contents
+- support the quality of learning material and the quality of knowledge examination through collective intelligence
+- reduce the monopoly of Ed-Tech giants
 
 
-🌈 If you want to contribute, join us or support us by sending ADA to the treasury here
+🌈 If you want to help, join us as a contributor or support us with a donation 
+- via [patreon](https://www.patreon.com/eLearningDAO) or
+- by sending [ADA](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform)) to our treasury address
 [addr1x8dgthgc5tgk9v70jzaesgsexs92yhqfq39gy5vnzyuvssw6shw33gk3v2euly9mnq3pjdq25fwqjpz2sfgexyfcepqsn3r7pu](https://explorer.cardano.org/en/address.html?address=addr1x8dgthgc5tgk9v70jzaesgsexs92yhqfq39gy5vnzyuvssw6shw33gk3v2euly9mnq3pjdq25fwqjpz2sfgexyfcepqsn3r7pu)
 
-### This is how it distributes student money among stakeholders who have provided learning material, test & verification, and publishing services.
+
+### This is the general design of how it distributes revenue among stakeholders who have provided learning material, testing & verification and publishing services.
+
 [![e-Learning DAO revenue stream](https://raw.githubusercontent.com/e-Learning-DAO/.github/main/profile/Decentralised%20E-Learning%20Platform%20-%20Overall%20picture%20-%20Revenue%20%26%20Share%20model.jpg)](https://github.com/e-Learning-DAO)
