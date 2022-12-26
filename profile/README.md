@@ -1,4 +1,4 @@
-[![PoLiL](https://raw.githubusercontent.com/e-Learning-DAO/.github/main/profile/E-Learning-Dao-Logo.jpg)](https://github.com/e-Learning-DAO)
+[![PoLiL](https://raw.githubusercontent.com/eLearningDAO/.github/main/profile/E-Learning-Dao-Logo.jpg)](https://github.com/eLearningDAO)
 
 ## Hi there 👋
 eLearningDAO is a Decentralized Autonomous Organization (DAO) focused on decentralised e-Learning. 
@@ -24,4 +24,4 @@ eLearningDAO objectives are:
 
 ### This is the general design of how it distributes revenue among stakeholders who have provided learning material, testing & verification and publishing services.
 
-[![e-Learning DAO revenue stream](https://raw.githubusercontent.com/e-Learning-DAO/.github/main/profile/Decentralised%20E-Learning%20Platform%20-%20Overall%20picture%20-%20Revenue%20%26%20Share%20model.jpg)](https://github.com/e-Learning-DAO)
+[![e-Learning DAO revenue stream](https://raw.githubusercontent.com/e-Learning-DAO/.github/main/profile/Decentralised%20E-Learning%20Platform%20-%20Overall%20picture%20-%20Revenue%20%26%20Share%20model.jpg)](https://github.com/eLearningDAO)
