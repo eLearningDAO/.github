@@ -25,7 +25,7 @@ eLearningDAO objectives:
 
 ## The overall platform with the components that shows how it distributes revenue among stakeholders who have provided learning material, testing & verification and publishing services.
 
-[![e-Learning DAO revenue stream](https://user-images.githubusercontent.com/598726/216318234-69ab1a3b-8c3f-4873-a872-8f3491f75eb7.png)](https://github.com/eLearningDAO)
+[![e-Learning DAO revenue stream](https://user-images.githubusercontent.com/598726/216326336-e6a718ec-1217-46d2-8695-95fc5ffbd64c.png)](https://github.com/eLearningDAO)
 
 
 ## Project presentation and roadmap
