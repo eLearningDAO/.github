@@ -20,7 +20,7 @@ eLearningDAO objectives:
 🌈 If you want to help, join us as a contributor or support us with a donation 
 - via [patreon](https://www.patreon.com/eLearningDAO) or
 - by sending [ADA](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform)) to our treasury address
-[addr1x8dgthgc5tgk9v70jzaesgsexs92yhqfq39gy5vnzyuvssw6shw33gk3v2euly9mnq3pjdq25fwqjpz2sfgexyfcepqsn3r7pu](https://explorer.cardano.org/en/address.html?address=addr1x8dgthgc5tgk9v70jzaesgsexs92yhqfq39gy5vnzyuvssw6shw33gk3v2euly9mnq3pjdq25fwqjpz2sfgexyfcepqsn3r7pu)
+[addr1x95ul4fvyt20jx0hsvyujshctx82sglzqu8rqc65mmyemr277wx7zsrl6stkq9sn5q7e4ll2hmauwnkjetvwn8znc35swuyru7](https://explorer.cardano.org/en/address.html?address=addr1x95ul4fvyt20jx0hsvyujshctx82sglzqu8rqc65mmyemr277wx7zsrl6stkq9sn5q7e4ll2hmauwnkjetvwn8znc35swuyru7)
 
 
 ## The overall platform with the components that shows how it distributes revenue among stakeholders who have provided learning material, testing & verification and publishing services.
