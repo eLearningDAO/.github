@@ -6,14 +6,14 @@ eLearningDAO is a Decentralized Autonomous Organization (DAO) focused on decentr
 It supports and coordinates the development of a new open-source decentralised e-Learning platform.
 
 eLearningDAO objectives:
-- Allow the user learning data sovereignty
-- Fight against the monopoly of the Ed-Tech giants
+- Allow data sovereignty of the user learning journey 
+- Propose an alternative to the monopoly of the Ed-Tech giants
 - Make recertification processes obsolete
 - Enable reputation of user's curricula instead of relying on academy branding
-- Knowledge verification by reputation plus verifiable learning path to combat the abuse of AI tools
+- Knowledge verification by reputation and verifiable learning path to mitigate the abuse of AI tools
 - Acknowledge authorship of the co-created learning materials
 - Support the quality of learning material and the quality of knowledge verification through a novel gamification process
-- Share the revenue among all of stakeholders who participated, such as: teachers, verifiers, content creators, content publishers, platform developers, etc.
+- Share the revenue among all of stakeholders who participated, such as teachers, verifiers, content creators, content publishers, platform developers, etc.
 - Share ownership of the platform and contents
 
 
@@ -23,11 +23,11 @@ eLearningDAO objectives:
 [addr1x95ul4fvyt20jx0hsvyujshctx82sglzqu8rqc65mmyemr277wx7zsrl6stkq9sn5q7e4ll2hmauwnkjetvwn8znc35swuyru7](https://explorer.cardano.org/en/address.html?address=addr1x95ul4fvyt20jx0hsvyujshctx82sglzqu8rqc65mmyemr277wx7zsrl6stkq9sn5q7e4ll2hmauwnkjetvwn8znc35swuyru7)
 
 
-## The overall platform with the components that shows how it distributes revenue among stakeholders who have provided learning material, testing & verification and publishing services.
+## The overall platform with the components that show how it distributes revenue among stakeholders who have provided learning material, testing & verification and publishing services.
 
 [![e-Learning DAO revenue stream](https://user-images.githubusercontent.com/598726/216326336-e6a718ec-1217-46d2-8695-95fc5ffbd64c.png)](https://github.com/eLearningDAO)
 
 
 ## Project presentation and roadmap
 
-[Building a decentralised e-Learning platform on Cardano](https://docs.google.com/presentation/d/1VpFnPE5v1Vq1JI1vlzc7zmUabrIowFvc6mT1NaU2xlA/edit?usp=sharing)
+[Building a decentralised e-Learning platform](https://docs.google.com/presentation/d/1VpFnPE5v1Vq1JI1vlzc7zmUabrIowFvc6mT1NaU2xlA/edit?usp=sharing)
