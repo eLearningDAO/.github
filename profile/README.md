@@ -25,9 +25,16 @@ eLearningDAO objectives:
 
 ## The overall platform with the components that show how it distributes revenue among stakeholders who have provided learning material, testing & verification and publishing services.
 
-[![e-Learning DAO revenue stream](https://user-images.githubusercontent.com/598726/216326336-e6a718ec-1217-46d2-8695-95fc5ffbd64c.png)](https://github.com/eLearningDAO)
+[![eLearningDAO revenue stream](https://user-images.githubusercontent.com/598726/216326336-e6a718ec-1217-46d2-8695-95fc5ffbd64c.png)](https://github.com/eLearningDAO)
 
 
-## Project presentation and roadmap
+## Project presentation
 
-[Building a decentralised e-Learning platform](https://docs.google.com/presentation/d/1VpFnPE5v1Vq1JI1vlzc7zmUabrIowFvc6mT1NaU2xlA/edit?usp=sharing)
+**Slides**
+
+[Building a decentralised e-Learning platform](https://docs.google.com/presentation/d/1DwoJDHCmf8IPLnEfao-nlgykQifxMVUhFh4i4UyHYVI/edit#slide=id.g267170fd23a_0_140)
+
+**Video**
+
+[![eLearningDAO 5 minutes video pitch](https://raw.githubusercontent.com/eLearningDAO/.github/main/profile/eLearningDAO-5mins-pitch.png)](https://www.youtube.com/watch?v=pXFvX6nsY1U)
+
