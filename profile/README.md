@@ -1,11 +1,10 @@
-[![PoLiL](https://raw.githubusercontent.com/eLearningDAO/.github/main/profile/E-Learning-Dao-Logo.jpg)](https://github.com/eLearningDAO)
+[![eLearningDAO](https://raw.githubusercontent.com/eLearningDAO/.github/main/profile/E-Learning-Dao-Logo.jpg)](https://github.com/eLearningDAO)
 
-## Hi there 👋
-eLearningDAO is a Decentralized Autonomous Organization (DAO) focused on decentralised e-Learning. 
+A Decentralized Autonomous Organization (DAO) to migrate online education to WEB3. 
 
-It supports and coordinates the development of a new open-source decentralised e-Learning platform.
+It supports and coordinates the development of a decentralised open-source e-Learning platform.
 
-eLearningDAO objectives:
+Objectives:
 - Allow data sovereignty of the user learning journey 
 - Propose an alternative to the monopoly of the Ed-Tech giants
 - Make recertification processes obsolete
@@ -16,14 +15,19 @@ eLearningDAO objectives:
 - Share the revenue among all of stakeholders who participated, such as teachers, verifiers, content creators, content publishers, platform developers, etc.
 - Share ownership of the platform and contents
 
+## Litepaper
+[![eLearningDAO litepaper](https://raw.githubusercontent.com/eLearningDAO/.github/main/profile/platform-book.png)](https://github.com/eLearningDAO/.github/blob/69cd43b9693cf8ab0d84388e853e8b79da18181d/profile/Decentralised%20eLearning%20platform%20-%20Litepaper.pdf)
+
+## Support us
 
 🌈 If you want to help, join us as a contributor or support us with a donation 
 - via [patreon](https://www.patreon.com/eLearningDAO) or
 - by sending [ADA](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform)) to our treasury address
 [addr1x95ul4fvyt20jx0hsvyujshctx82sglzqu8rqc65mmyemr277wx7zsrl6stkq9sn5q7e4ll2hmauwnkjetvwn8znc35swuyru7](https://explorer.cardano.org/en/address.html?address=addr1x95ul4fvyt20jx0hsvyujshctx82sglzqu8rqc65mmyemr277wx7zsrl6stkq9sn5q7e4ll2hmauwnkjetvwn8znc35swuyru7)
 
+## Revenue share model
 
-## The overall platform with the components that show how it distributes revenue among stakeholders who have provided learning material, testing & verification and publishing services.
+The overall platform with the components that show how it distributes revenue among stakeholders who have provided learning material, testing & verification and publishing services.
 
 [![eLearningDAO revenue stream](https://user-images.githubusercontent.com/598726/216326336-e6a718ec-1217-46d2-8695-95fc5ffbd64c.png)](https://github.com/eLearningDAO)
 
